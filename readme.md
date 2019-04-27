@@ -5,7 +5,7 @@
 > 部分情况无法得出解，需要手动点击  
 > 运气好可以直接自动扫完  
 > 如果无法运行， 重新生成项目  
-> 如果能解决的情况都返回没有解， 检查Python命令和， demo.py 路径 
+> 如果能解决的情况都返回没有解， 检查Python命令和， demo.py 路径   
 > 核心函数 308行 **private void python(string box_data)**   
 
 ## MineSwpeeing GUI借用地址
